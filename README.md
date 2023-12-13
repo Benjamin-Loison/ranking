@@ -288,11 +288,13 @@ An example jupyter notebook is available in
 If you use TensorFlow Ranking in your research and would like to cite it, we
 suggest you use the following citation:
 
-    @inproceedings{TensorflowRankingKDD2019,
-       author = {Rama Kumar Pasumarthi and Sebastian Bruch and Xuanhui Wang and Cheng Li and Michael Bendersky and Marc Najork and Jan Pfeifer and Nadav Golbandi and Rohan Anil and Stephan Wolf},
-       title = {TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank},
-       booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-       year = {2019},
-       pages = {2970--2978},
-       location = {Anchorage, AK}
-    }
+```bibtex
+@inproceedings{TensorflowRankingKDD2019,
+   author = {Rama Kumar Pasumarthi and Sebastian Bruch and Xuanhui Wang and Cheng Li and Michael Bendersky and Marc Najork and Jan Pfeifer and Nadav Golbandi and Rohan Anil and Stephan Wolf},
+   title = {TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank},
+   booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+   year = {2019},
+   pages = {2970--2978},
+   location = {Anchorage, AK}
+}
+```

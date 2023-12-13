@@ -24,7 +24,7 @@ as listed below. For NQ, we also provide teacher scores from a ranker trained on
 ## Citation
 You can cite our work by copying the following bibtex:
 
-```
+```bibtex
 @article{qin2023rd,
   title={RD-Suite: A Benchmark for Ranking Distillation},
   author={Qin, Zhen and Jagerman, Rolf and Pasumarthi, Rama and Zhuang, Honglei and Zhang, He and Bai, Aijun and Hui, Kai and Yan, Le and Wang, Xuanhui},
